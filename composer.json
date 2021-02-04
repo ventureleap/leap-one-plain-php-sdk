@@ -21,7 +21,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "VentureLeap\\LeapOnePhpSdk\\": "src/",
+      "VentureLeap\\LeapOnePhpSdk\\": "src/"
     }
   },
   "minimum-stability": "dev",
