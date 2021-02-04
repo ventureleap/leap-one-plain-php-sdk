@@ -1,6 +1,6 @@
 {
   "name": "ventureleap/leap-one-plain-php-sdk",
-  "type": "symfony-bundle",
+  "type": "php-sdk",
   "authors": [
     {
       "name": "Venture Leap",
