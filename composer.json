@@ -19,11 +19,6 @@
   },
   "repositories": [
   ],
-  "autoload": {
-    "psr-4": {
-      "VentureLeap\\LeapOnePhpSdk\\": "src/"
-    }
-  },
   "minimum-stability": "dev",
   "prefer-stable": true
 }
