@@ -16,9 +16,14 @@
     "ventureleap/leap-one-product-sdk": "dev-master",
     "ventureleap/leap-one-order-sdk": "dev-master",
     "ventureleap/leap-one-rating-sdk": "dev-master",
+    "ventureleap/leap-one-storage-sdk": "dev-main",
     "ventureleap/leap-one-renderer-sdk": "dev-master"
   },
   "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/ventureleap/leap-one-storage-sdk.git"
+    }
   ],
   "minimum-stability": "dev",
   "prefer-stable": true
