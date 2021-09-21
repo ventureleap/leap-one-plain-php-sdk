@@ -4,5 +4,5 @@
 
 1. Require the package via:
 ```bash
-composer require ventureleap/leap-one-plain-php-sdk dev-main
+composer require ventureleap/leap-one-plain-php-sdk dev-2.0
 ```
